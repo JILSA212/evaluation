@@ -1,0 +1,15 @@
+for_all(x)(Bird(x) IMPLIES Has
+there_exists(x)(Animal(x) AND CanFly(x
+for_all(x)(Plant(x) IMPLIES Orbits
+for_all(x)(Triangle(x) IMPLIES HasSides
+for_all(x)(Mammal(x) AND GivesNumber
+there_exists(x)(Person(x) AND AllergicTo(x
+for_all(x)(Reptintal(x) IMPLIES
+for_all(x)(Square(x) IMPLIES Is
+there_exists(x)(Bird(x) AND Blue(x
+for_all(x)(Dog(x) IMPLIES CanMor
+for_all(x)(Prime(x) IMPLIES IsO
+there_exists(x)(Fisch(x) AND LivesIn(x
+for_all(x)(Square(x) IMPLIES HasF
+there_exists(x)(Mammal(x) AND LaysEar
+NOT there_exists(x)(Insect(x) AND HasHy

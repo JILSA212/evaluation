@@ -1,0 +1,15 @@
+for_all(x)(Bird(x) IMPLIES Has
+there_exists(x)(Bird(x) IMPLIES
+for_all(x)(Plants(x) IMPLIES Orbit
+triangles has three sides.
+for_all(x)(Mammal(x) AND GivesNumber
+there_exists(x)(Person(x) AND AllergicTo(x
+for_all(x)(Reptile(x) IMPLIES NOT Can
+for_all(x)(Square(x) IMPLIES Is
+there_exists(x)(Phannel(x) AND YE
+NOT there_exists(x)(Dog(x) IMPLIES Can
+for_all(x)(Prime(x) IMPLIES IsO
+there_exists(x)(Fisch(x) AND LivesInFr
+for_all(x)(Stell(x) IMPLIES HasShort
+there_exists(x)(Mammal(x) AND Jet(x
+NOT there_exists(x)(Insect(x) AND IMPL

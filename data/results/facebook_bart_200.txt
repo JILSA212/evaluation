@@ -1,0 +1,15 @@
+for_all(x)(Bird(x) IMPLIES HasFingerprints
+there_exists(x)(Animal(x) AND CanFly(x))
+for_all(x)(Planet(x) IMPLIES orbits(x,
+for_all(x)(Triangle(x) IMPLIES HasSides
+for_all(x)(Mammal(x) IMPLIES GiveBirth
+there_exists(x)(Person(x) AND AllergicTo(x
+NOT there_exists(x)(Snake(x) AND Produce(x
+forfor_all(x)(Square(x) IMPLIES IsRectangle
+there_exists(x)(Flower(x) AND IsBlue(x
+for_all(x)(Dog(x) IMPLIES NOT CanMeow
+for_all(x)(Prime(x) IMPLIES IsOdd(
+there_exists(x)(Fish(x) AND LiveIn(x,
+for_all(x)(Square(x) IMPLIES HasSides(
+there_exists(x)(Mammal(x) AND Lay(x
+NOT there_exists(x)(Insect(x) AND HasBackbone
